@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="744.09448819"
@@ -16,7 +17,60 @@
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="base.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       id="linearGradient3756">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3758" />
+      <stop
+         style="stop-color:#f8f8f8;stop-opacity:1;"
+         offset="1"
+         id="stop3760" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3756"
+       id="radialGradient3762"
+       cx="155.04821"
+       cy="742.74018"
+       fx="155.04821"
+       fy="742.74018"
+       r="9.802371"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3756"
+       id="radialGradient3770"
+       cx="178.06888"
+       cy="742.83154"
+       fx="178.06888"
+       fy="742.83154"
+       r="9.802371"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3756"
+       id="radialGradient3778"
+       cx="199.21684"
+       cy="743.01422"
+       fx="199.21684"
+       fy="743.01422"
+       r="9.802371"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3756"
+       id="radialGradient3782"
+       gradientUnits="userSpaceOnUse"
+       cx="199.21684"
+       cy="743.01422"
+       fx="199.21684"
+       fy="743.01422"
+       r="9.802371"
+       gradientTransform="translate(21.592948,0)" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,7 +79,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.0770377"
-     inkscape:cx="199.43517"
+     inkscape:cx="192.43738"
      inkscape:cy="309.34131"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -52,7 +106,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:0.95256916;fill:none;stroke:#555555;stroke-width:0.0146098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="opacity:1;fill:url(#radialGradient3762);stroke:#555555;stroke-width:0.01460980000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
        id="rect2985"
        width="19.479742"
        height="19.479742"
@@ -62,7 +116,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="opacity:0.95256916;fill:#abc837;stroke:#555555;stroke-width:0.01728347;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       style="opacity:1;fill:#abc837;stroke:#555555;stroke-width:0.01728347000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
        d="m 148.95529,735.8177 c 2.29922,-2.31317 13.84458,4.53157 13.89141,6.96012 0.0468,2.42855 -11.64217,9.08901 -13.89141,6.93128 -2.24923,-2.15772 -2.29922,-11.57823 0,-13.8914 z"
        id="rect3755"
        inkscape:connector-curvature="0"
@@ -79,26 +133,42 @@
        height="19.479742"
        width="19.479742"
        id="rect3758"
-       style="opacity:0.95256916;fill:none;stroke:#555555;stroke-width:0.0146098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="opacity:1;fill:url(#radialGradient3770);stroke:#555555;stroke-width:0.01460980000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1" />
     <path
-       style="opacity:0.95256916000000003;fill:#ff6600;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:none"
        d="m 173.75251,734.9068 8.63275,0 c 1.97375,0 3.56273,1.58897 3.56273,3.56272 l 0,8.72411 c 0,1.97374 -1.58898,3.56272 -3.56273,3.56272 l -8.63275,0 c -1.97375,0 -3.56272,-1.58898 -3.56272,-3.56272 l 0,-8.72411 c 0,-1.97375 1.58897,-3.56272 3.56272,-3.56272 z"
-       id="rect3762" />
+       id="rect3762"
+       inkscape:export-filename="C:\Users\Ross\Documents\GitHub\jquery.buzz\Demo\images\stop.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       style="opacity:0.95256916;fill:none;stroke:#555555;stroke-width:0.0146098;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="opacity:1;fill:url(#radialGradient3778);stroke:#555555;stroke-width:0.01460980000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
        id="rect3765"
        width="19.479742"
        height="19.479742"
        x="189.47697"
        y="733.27435"
-       inkscape:export-filename="C:\Users\Ross\Documents\GitHub\jquery.buzz\Demo\images\stop.png"
+       inkscape:export-filename="C:\Users\Ross\Documents\GitHub\jquery.buzz\Demo\images\nosupport.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        id="path3767"
        d="m 194.90047,735.0895 4.20093,5.70949 4.43182,-5.70949 c 0.68387,-0.88102 4.41559,2.92022 3.56273,3.56272 l -5.70949,4.27835 5.70949,4.44576 c 0.8878,0.69129 -2.86692,4.51386 -3.56273,3.56272 l -4.43182,-6.12058 -4.20093,6.12058 c -0.46059,0.67106 -4.51951,-2.76946 -3.56272,-3.56272 l 5.38976,-4.44576 -5.38976,-4.27835 c -0.99786,-0.79209 2.87771,-4.48371 3.56272,-3.56272 z"
-       style="opacity:0.95256916000000003;fill:#d40000;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#d40000;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="scsscsscsscss" />
+       sodipodi:nodetypes="scsscsscsscss"
+       inkscape:export-filename="C:\Users\Ross\Documents\GitHub\jquery.buzz\Demo\images\nosupport.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Ross\Documents\GitHub\jquery.buzz\Demo\images\loading.png"
+       y="733.27435"
+       x="211.06992"
+       height="19.479742"
+       width="19.479742"
+       id="rect3780"
+       style="opacity:1;fill:url(#radialGradient3782);fill-opacity:1;stroke:#555555;stroke-width:0.01460980000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
 </svg>
