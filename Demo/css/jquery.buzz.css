@@ -1,2 +1,29 @@
 /* CSS Document */
 
+.play111{
+	width:20px;
+	height:20px;
+	background-image:url(../images/play.png);
+	background-repeat:no-repeat;
+}
+
+.stop111{
+	width:20px;
+	height:20px;
+	background-image:url(../images/stop.png);
+	background-repeat:no-repeat;
+}
+
+.loading111{
+	width:20px;
+	height:20px;
+	background-image:url(../images/loading1.gif);
+	background-repeat:no-repeat;
+}
+	
+.nosupport111{
+	width:20px;
+	height:20px;
+	background-image:url(../images/nosupport.png);
+	background-repeat:no-repeat;
+}

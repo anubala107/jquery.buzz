@@ -13,11 +13,13 @@
 
 <script>
 	$(document).ready(function () {
-		$("p").text("The DOM is now loaded and can be manipulated.");
+		$('#soundplayerContainer').jquerybuzz({
+  			'inputfile' : 'demosong'
+		});
 	});
 </script>
 </head>
-
+<h1>JQuery Audio Plugin demo page</h1>
 <div id="centerdiv">
 	<div id="soundplayerContainer">
     </div>
